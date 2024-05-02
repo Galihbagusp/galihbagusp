@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galih Bagus</h1>
-<h3 align="center">A passionate data engineer from Indonesia</h3>
+<h3 align="center">A passionate Cloud engineer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galihbagusp&label=Profile%20views&color=0e75b6&style=flat" alt="galihbagusp" /> </p>
