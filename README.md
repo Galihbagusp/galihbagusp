@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **big data analytics and technologies**
 
-- 💬 Ask me about **data warehousing, stream and batch processing**
+- 💬 Ask me about **cloud automation and data engineering**
 
 - 📫 How to reach me **galihbaguspr@gmail.com**
 
