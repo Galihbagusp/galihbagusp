@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galihbagusp&label=Profile%20views&color=0e75b6&style=flat" alt="galihbagusp" /> </p>
 
-- 🌱 I’m currently learning **big data analytics and technologies**
+- 🌱 I’m currently learning **Cloud Engineering and technologies**
 
 - 💬 Ask me about **cloud automation and data engineering**
 
