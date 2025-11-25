@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **cloud automation and data engineering**
 
-- 📫 How to reach me **galihbaguspr@gmail.com**
+- 📫 Reach me at **galihbaguspr@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
